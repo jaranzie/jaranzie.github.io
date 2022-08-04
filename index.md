@@ -1,8 +1,4 @@
-## John Ranzie
 
-# John Ranzie
-
-### John Ranzie
 
 ### Stony Brook University
 
