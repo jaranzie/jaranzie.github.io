@@ -1,11 +1,5 @@
 # jaranzie.github.io
 
-## John Ranzie
-
-# John Ranzie
-
-### John Ranzie
-
 ### Stony Brook University
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
